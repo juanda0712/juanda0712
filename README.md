@@ -5,15 +5,14 @@
   />
   <h1 align="center">Hi 👋, I'm JuanDa</h1>
   <h3 align="center">
-    A passionate developer and computer engineering student from Costa Rica. I like working on demanding projects 
-    surrounded by dedicated and passionate people.
+    A passionate developer and computer engineering student from Costa Rica. I enjoy working on demanding projects surrounded by dedicated and passionate people.
   </h3>
 </div>
 
 ### ✨ About Me:
 
 - 🌱 I’m currently learning FrontEnd and BackEnd with Node.js technologies
-- 💬 Ask me about JavaScript, Python, c#, c++
+- 💬 Ask me about JavaScript, Python, C#, C++
 - 📫 How to reach me: **juanrm071299@gmail.com** or **juan.rodriguez@estudiantec.cr**
 
 <div align="left">
@@ -37,6 +36,13 @@
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       title="JS"
       alt="JS"
+      width="40"
+      height="40"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
+      title="TS"
+      alt="TS"
       width="40"
       height="40"
     />&nbsp;
@@ -107,13 +113,6 @@
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       title="MONGODB"
       alt="MONGODB"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
-      title="TS"
-      alt="TS"
       width="40"
       height="40"
     />&nbsp;
