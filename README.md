@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img
+    src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif"
+    width="200"
+  />
+  <h1 align="center">Hi 👋, I'm JuanDa</h1>
+  <h3 align="center">
+    A passionate developer and computer engineering student from Costa Rica. I like working on demanding projects 
+    surrounded by dedicated and passionate people.
+  </h3>
+</div>
 
 <!--
 **juanda0712/juanda0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
