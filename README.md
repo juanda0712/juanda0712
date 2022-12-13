@@ -11,12 +11,12 @@
 
 ### ✨ About Me:
 
-- 🌱 I’m currently learning FrontEnd and BackEnd with Node.js technologies
-- 💬 Ask me about JavaScript, Python, C#, C++
+- 🌱 I’m currently learning FrontEnd and BackEnd =
+- 💬 Ask me about JavaScript, C#, Python, C++
 - 📫 How to reach me: **juanrm071299@gmail.com** or **juan.rodriguez@estudiantec.cr**
 
 <div align="left">
-  <h3>🔨 Languajes and Tools</h3>
+  <h3>🔨 Languajes and Tools recently used</h3>
   <div>
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
