@@ -11,27 +11,14 @@
 
 ### ✨ About Me:
 
-- 🌱 I’m currently learning FrontEnd and BackEnd =
-- 💬 Ask me about JavaScript, C#, Python, C++
-- 📫 How to reach me: **juanrm071299@gmail.com** or **juan.rodriguez@estudiantec.cr**
+- 🌱 I’m currently learning about Saas.
+- 💬 Ask me about JavaScript, Java, C#, C++
+- 🌎 My personal web page: **https://jdrodriguez.dev/**
+- 📫 How to reach me: **juanrm071299@gmail.com**
 
 <div align="left">
   <h3>🔨 Languajes and Tools recently used</h3>
   <div>
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-      title="HTML5"
-      alt="HTML"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
-      title="CSS3"
-      alt="CSS"
-      width="40"
-      height="40"
-    />&nbsp;
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
       title="JS"
