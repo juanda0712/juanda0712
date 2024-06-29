@@ -12,9 +12,9 @@
 ### ✨ About Me:
 
 - 🌱 I’m currently learning about Saas.
-- 💬 Ask me about JavaScript, Java, C#, C++
-- 🌎 My personal web page: **https://jdrodriguez.dev/**
-- 📫 How to reach me: **juanrm071299@gmail.com**
+- 💬 Ask me about SaaS.
+- 🌎 My personal web page: **https://juandarm.vercel.app/**
+- 📫 How to reach me: **juanrm071299@gmail.com | juan.rodriguez@estudiantec.cr**
 
 <div align="left">
   <h3>🔨 Languajes and Tools recently used</h3>
@@ -61,13 +61,13 @@
       width="40"
       height="40"
     />&nbsp;
-    <img
+<!--     <img
       src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"
       title="MUI"
       alt="MUI"
       width="40"
       height="40"
-    />&nbsp;
+    />&nbsp; -->
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
       title="GIT"
